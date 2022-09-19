@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @cristinacrs
-- 👀  I’m interested in Data Analytics and BI
+- 👀  I’m interested in Frontend Development and UI
 - 🌱  I’m currently learning Web Development
 - 💞️  I’m looking to collaborate on Frontend projects
 - 📫  Reach me on LinkedIn (https://www.linkedin.com/in/alba-cristina-cruz-cort%C3%A9s/)
